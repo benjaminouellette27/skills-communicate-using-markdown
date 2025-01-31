@@ -1,3 +1,2 @@
-# This is an H1 Header
-## This is an H2 Header
-### Is this an H3 Header?
+# this is a cat with a cool hat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
